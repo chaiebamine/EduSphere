@@ -1,0 +1,21 @@
+CIN,Subject,Grade
+12345678,Mathematics,0.00
+12345678,Physics,3.50
+12345678,Chemistry,1.15
+12345678,Biology,9.34
+12345678,Computer Science,8.67
+12345678,History,0.25
+12345678,English,4.56
+12345678,Philosophy,3.45
+12345678,Geography,6.78
+87654321,Mathematics,14.67
+87654321,Physics,19.34
+87654321,Chemistry,8.90
+87654321,Computer Science,11.78
+87654321,Biology,7.56
+87654321,History,13.25
+87654321,English,12.45
+87654321,Geography,15.67
+87654321,Music,18.23
+87654321,Philosophy,17.45
+78945612,Mathematics,3.50

@@ -1,0 +1,1 @@
+CIN,First Name,Last Name,Date of Birth,Gender,Email,Phone Number,Address,City,Class,Username,Password14524554,amine,chaieb,2003-12-17,M,chaiebamine741@gmail.com,29663667,ARIANA,ARIANA,waitlist,AMINE123,AMINEPASS

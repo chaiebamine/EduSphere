@@ -1,0 +1,7 @@
+CIN,Subject,Day,Time,Classroom,Group
+12345678, Mathematics, Monday, 10:00 AM, Room 106, 1A
+12345678, Physics, Wednesday, 2:00 PM, Room 205, 2B
+23456789,Biology,Tuesday,9:00 AM,Room 104,2B
+12345678, Chemistry, Friday, 11:00 AM, Room 303, 2A
+23456789,Physics,Wednesday,2:00 PM,Room 205,2B
+12345678, Mathematics, Monday, 10:00 AM, Room 101, 1A

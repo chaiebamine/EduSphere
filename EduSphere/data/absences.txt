@@ -1,0 +1,6 @@
+cin,subject,AbsenceCount
+87654321,Chemistry,1
+12345678,Mathematics,6
+87654321,Mathematics,4
+78945612,Mathematics,1
+12313213,Mathematics,1

@@ -1,0 +1,10 @@
+CIN,First Name,Last Name,Date of Birth,Gender,Email,Phone Number,Address,City,Department,Subject,Username,Password
+89012345,White,Taylor,1988-09-30,M,mr.white2@example.com,+667788990,505 Birchwood St,CityH,Geography,Geography,mwhite2,password444
+78901234,Black,Wilson,1978-01-25,M,dr.black@example.com,+556677889,404 Oakwood St,CityG,Philosophy,Philosophy,dblack,password333
+67890123,Pink,Adams,1982-05-15,F,mrs.pink@example.com,+445566778,303 Maple St,CityF,Music,Music,mpink,password222
+56789012,White,Davis,1990-08-30,M,mr.white@example.com,+334455667,202 Cedar St,CityE,English,English,mwhite,password111
+45678901,Green,Clark,1975-03-25,M,mr.green@example.com,+223344556,101 Birch St,CityD,History,History,mgreen,password000
+34567890,Lee,Kim,1985-11-11,F,ms.lee@example.com,+112233445,789 Pine St, CityC,Chemistry,Chemistry,mlee,password789
+23456789,Johnson,Brown,1975-02-20,M,dr.johnson@example.com,+987654321,456 Oak St,CityB,Physics,Physics,djbrown,password456
+12345678,John,Smith,1980-06-15,M,johnsmith@gmail.com,+123456789,123 Main St,CityA,Mathematics,Mathematics,johnsmith,passpass
+45645645,john,brown,1980-12-12,M,johnbrown@gmail.com,789456123,Main St,CityA,Mathematics,Algebra,johnbrown,brownpass

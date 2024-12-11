@@ -1,0 +1,6 @@
+CIN,First Name,Last Name,Date of Birth,Gender,Email,Phone Number,Address,City,Class,Username,Password
+12313213,abir,chaieb,1998-10-09,F,chaiebabir@gmail.com,12345678,ariana,ariana,1A,abirabir,abirpass
+78945612,mahdi,chaieb,2010-09-26,M,mohammedmahdichaieb@gmail.com,26060273,121 Rue oman,Ariana,1A,mahdi123,passmahdi
+87654321,jane,smith,2005-03-12,F,janesmith@gmail.com,123-4567,210 Oak Street,Atlanta,1B,janesmith,anotherpass
+12345678,John,Doe,2005-06-15,M,john.doe@gmail.com,26060273,123 Elm Street,New York,1A,johndoe321,securepass
+14524554,amine,chaieb,2003-12-17,M,chaiebamine741@gmail.com,29663667,ARIANA,ARIANA,1B,AMINE123,AMINEPASS

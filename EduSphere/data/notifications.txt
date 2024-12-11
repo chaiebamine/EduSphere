@@ -1,0 +1,28 @@
+CIN,Notification,Date
+12345678,You have been marked absent in Mathematics,2024-12-01
+23456789,You have a new assignment in Physics: Lab Report,2024-12-02
+34567890,You have been eliminated from Chemistry due to excessive absences,2024-12-03
+45678901,Your Biology class has been rescheduled to 10:00 AM,2024-12-04
+56789012,You scored 0 in the History exam and have been eliminated,2024-12-05
+67890123,You have a new assignment in Computer Science: Project Report,2024-12-05
+78901234,You have been marked absent in English,2024-12-06
+89012345,Your Philosophy exam has been rescheduled to next Monday,2024-12-09
+12345678,You have a new assignment in Mathematics: Final Homework,2024-12-09
+23456789,You have been marked absent in Physics,2024-12-10
+34567890,Your Chemistry class has been moved to Room 101,2024-12-11
+87654321,You have been marked absent in Mathematics,2024-12-04
+12345678,You have been marked absent in Mathematics,2024-12-04
+87654321,You have been marked absent in Mathematics,2024-12-04
+23456789,You have been eliminated from Physics because Scored 0 in exam,2024-12-11
+34567890,You have been eliminated from Chemistry because Exceeded 3 absences,2024-12-11
+45678901,You have been eliminated from Biology because Scored 0 in exam,2024-12-11
+56789012,You have been eliminated from History because Exceeded 3 absences,2024-12-11
+67890123,You have been eliminated from Computer Science because Scored 0 in exam,2024-12-11
+78901234,You have been eliminated from English because Exceeded 3 absences,2024-12-11
+89012345,You have been eliminated from Philosophy because Scored 0 in exam,2024-12-11
+87654321,You have been eliminated from Mathematics because Exceeded 3 absences,2024-12-11
+12345678,You have been eliminated from Mathematics because Exceeded 3 absences,2024-12-11
+12345678,You have been eliminated from Mathematics because Scored 0 in exam,2024-12-11
+78945612,You have been marked absent in Mathematics,2024-12-11
+12313213,You have been marked absent in Mathematics,2024-12-11
+87654321,You have to submit you lab report,2024-12-11

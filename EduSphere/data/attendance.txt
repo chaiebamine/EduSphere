@@ -1,0 +1,18 @@
+Date, CIN, First Name, Last Name, Subject, Status
+2024-12-01, 12345678, John, Doe, History, P
+2024-12-01, 87654321, Jane, Smith, Chemistry, A
+2024-12-01, 87654321, Jane, Smith, Physics, P
+2024-12-02, 12345678, John, Doe, Mathematics, A
+2024-12-04,12345678,John,Doe,Mathematics,A
+2024-12-04,87654321,jane,smith,Mathematics,A
+2024-12-04,87654321,jane,smith,Mathematics,A
+2024-12-04,12345678,John,Doe,Mathematics,A
+2024-12-04,87654321,jane,smith,Mathematics,A
+2024-12-04,12345678,John,Doe,Mathematics,P
+2024-12-05,87654321,jane,smith,Mathematics,A
+2024-12-04,12345678,John,Doe,Mathematics,A
+2024-12-11,78945612,mahdi,chaieb,Mathematics,A
+2024-12-11,12345678,John,Doe,Mathematics,A
+2024-12-11,12313213,abir,chaieb,Mathematics,A
+2024-12-11,78945612,mahdi,chaieb,Mathematics,P
+2024-12-11,12345678,John,Doe,Mathematics,A

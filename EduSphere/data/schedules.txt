@@ -1,0 +1,32 @@
+class, day, subject, teacher, time, classroom
+1A, Monday, Mathematics, Mr. Doe, 09:00-10:30, 105
+1A, Monday, Physics, Dr. Johnson, 10:30-12:00, Room 102
+1A, Monday, Chemistry, Ms. Lee, 13:00-14:30, Room 103
+1A, Tuesday, Biology, Dr. Williams, 09:00-10:30, Room 104
+1A, Tuesday, Computer Science, Mr. Brown, 10:30-12:00, Room 105
+1A, Tuesday, History, Mr. Green, 13:00-14:30, Room 106
+1A, Wednesday, English, Mrs. White, 09:00-10:30, Room 107
+1A, Wednesday, Philosophy, Dr. Black, 10:30-12:00, Room 108
+1A, Wednesday, Geography, Mr. White, 13:00-14:30, Room 109
+1A, Thursday, Mathematics, Mr. Smith, 09:00-10:30, Room 110
+1A, Thursday, Physics, Dr. Johnson, 10:30-12:00, Room 111
+1A, Thursday, Chemistry, Ms. Lee, 13:00-14:30, Room 112
+1A, Friday, Biology, Dr. Williams, 09:00-10:30, Room 113
+1A, Friday, Computer Science, Mr. Brown, 10:30-12:00, Room 114
+1A, Friday, History, Mr. Green, 13:00-14:30, Room 115
+1B, Monday, Mathematics, Mr. Smith, 09:00-10:30, Room 201
+1B, Monday, Chemistry, Ms. Lee, 10:30-12:00, Room 202
+1B, Monday, Physics, Dr. Johnson, 13:00-14:30, Room 203
+1B, Tuesday, Computer Science, Mr. Brown, 09:00-10:30, Room 204
+1B, Tuesday, Biology, Dr. Williams, 10:30-12:00, Room 205
+1B, Tuesday, History, Mr. Green, 13:00-14:30, Room 206
+1B, Wednesday, English, Mrs. White, 09:00-10:30, Room 207
+1B, Wednesday, Geography, Mr. White, 10:30-12:00, Room 208
+1B, Wednesday, Philosophy, Dr. Black, 13:00-14:30, Room 209
+1B, Thursday, Chemistry, Ms. Lee, 09:00-10:30, Room 210
+1B, Thursday, Physics, Dr. Johnson, 10:30-12:00, Room 211
+1B, Thursday, Biology, Dr. Williams, 13:00-14:30, Room 212
+1B, Friday, Computer Science, Mr. Brown, 09:00-10:30, Room 213
+1B, Friday, History, Mr. Green, 10:30-12:00, Room 214
+1B, Friday, English, Mrs. White, 13:00-14:30, Room 215
+1A, Monday, Mathematics, Mr. Doe, 15:00-17:00,Room 106

@@ -1,0 +1,6 @@
+Group,assignment,due_date
+1A,Physics Lab Report,2024-12-18
+1B,Chemistry Homework,2024-12-20
+1B,Mathematics Homework,2024-12-12
+1A,Mathematics Homework,2024-12-12
+1B,Physics Homework,2024-12-15

@@ -1,0 +1,5 @@
+CIN,First Name,Last Name,Date of Birth,Gender,Email,Phone Number,Address,City,Role,Username,Password
+45678901,Sarah,Johnson,1975-03-28,F,sarah.johnson@example.com,+789321456,321 Cedar Drive,Houston,Admin,sjohnson,password789
+34567890,Michael,Brown,1990-09-10,M,michael.brown@example.com,+456123789,789 Pine Avenue,Chicago,Admin,mikebrown,admin456
+23456789,Jane,Smith,1985-06-22,F,jane.smith@example.com,+987654321,456 Oak Lane,Los Angeles,Registrar,janesmith,securepass
+12345678,John,Doe,1980-01-15,M,john.doe@example.com,+123456789,123 Elm Street,New York,Principal,johndoe,pass123

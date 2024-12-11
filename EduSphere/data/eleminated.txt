@@ -1,0 +1,10 @@
+cin,subject,reason
+23456789,Physics,Scored 0 in exam
+34567890,Chemistry,Exceeded 3 absences
+45678901,Biology,Scored 0 in exam
+56789012,History,Exceeded 3 absences
+67890123,Computer Science,Scored 0 in exam
+78901234,English,Exceeded 3 absences
+89012345,Philosophy,Scored 0 in exam
+87654321,Mathematics,Exceeded 3 absences
+12345678,Mathematics,Exceeded 3 absences

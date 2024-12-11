@@ -1,0 +1,5 @@
+class,cin,first name,last name,assignment,submission_date
+1A,12345678,John,Doe,Mathematics Homework,2024-12-06
+1A,12345678,John,Doe,Physics Lab Report,2024-12-11
+1A,12345678,John,Doe,Mathematics Homework,2024-12-11Assignment 'Mathematics Homework' has been successfully submitted.
+
